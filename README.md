@@ -20,6 +20,7 @@
 
 ### Machine Learning
 [titanic_survival_exploration](https://github.com/ZhanXuzhao/ML_p01_titanic_survival_exploration)
+[ooston_housing](https://github.com/ZhanXuzhao/ML_p01_boston_housing)
 
 ## Business
 ### People
