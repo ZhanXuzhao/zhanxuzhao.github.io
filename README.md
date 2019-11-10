@@ -25,5 +25,3 @@
 ## Business
 ### People
 [renzhengfei](https://github.com/ttpianobirds/RenZhengfei)
-
-## Events
